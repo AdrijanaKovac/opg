@@ -15,7 +15,8 @@ npm run serve
 ```
 Ovo će pokrenuti aplikaciju i omogućiti vam pregled uživo svih promjena koje napravite.
 
-### Compiles and minifies for production
+### Priprema za produkciju
+Kada ste spremni za objavljivanje aplikacije, koristite:
 ```
 npm run build
 ```
